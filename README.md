@@ -8,5 +8,5 @@ pyinstaller --onefile --hidden-import=sklearn --hidden-import=sklearn.pipeline  
 ```
 Скопировать папки models, trad_map и файл trade_map.db в папку с .exe
 ```
-или скачать арив по ссылке:
+или скачать архив по ссылке:
 https://drive.google.com/drive/u/0/folders/10_9jDJ6YQcF39a2aVAFeg5ahyZtU4Zrw
