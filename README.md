@@ -1,4 +1,5 @@
 Для сборки приложения
+
 1)
 ```
 pyinstaller --onefile --hidden-import=sklearn --hidden-import=sklearn.pipeline  --windowed main.py
